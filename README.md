@@ -3,10 +3,6 @@
 Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
 The project in question is a small application to perform the counting to control the maximum capacity of a location. This was my first app developed in flutter.
 
-<p align="center"> 
-<img alt="Print" src="https://github.com/marcusv77/App-Flutter-Contador-Pessoas/blob/master/print/count.png">
-</p>
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
