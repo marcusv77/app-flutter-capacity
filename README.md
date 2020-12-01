@@ -16,7 +16,7 @@
 ## Features
 
 * Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
-The project in question is a small application to perform the counting to control the maximum capacity of a location. This was my first app developed in flutter.
+* The project in question is a small application to perform the counting to control the maximum capacity of a location. This was my first app developed in flutter.
 
 ---
 
