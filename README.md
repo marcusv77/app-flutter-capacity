@@ -1,7 +1,7 @@
 ## COMPLETE
 
 <p align="center">
-   <img src="./print/Flutter.png" alt="Flutter" width="300"/>
+   <img src="./print/Flutter.png" alt="Flutter" width="400"/>
 </p>
 
 <p align="center">	
