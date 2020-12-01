@@ -31,7 +31,7 @@ This project was made using the follow technologies:
 ## How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/marcusv77/website-hdr.git
+$ git clone https://github.com/marcusv77/app-flutter-capacity.git
 ```
 Now you can open the project and emulate this application using Android Studio.
 
