@@ -1,21 +1,43 @@
-# Counter
+## COMPLETE
 
-Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
+<p align="center">
+   <img src="./print/Flutter.png" alt="Flutter" width="300"/>
+</p>
+
+<p align="center">	
+   <a href="https://www.linkedin.com/in/marcus-fernandes-f77/">
+      <img alt="Marcus Fernandes" src="https://img.shields.io/badge/Marcus-30416A?style=flat&logo=linkedin&labelColor=30416A" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcusv77/app-flutter-capacity?color=30416A&label=Respo%20size">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-30416A">
+</p>
+
+
+## Features
+
+* Application developed in flutter with the aid of the course "Creating Android and iOS Apps with Flutter".
 The project in question is a small application to perform the counting to control the maximum capacity of a location. This was my first app developed in flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Technologies
+This project was made using the follow technologies:
 
-A few resources to get you started if this is your first Flutter project:
+* [Dart](https://dart.dev/)      
+* [Flutter](https://flutter.dev/)       
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+```bash
+# Clone Repository
+$ git clone https://github.com/marcusv77/website-hdr.git
+```
+Now you can open the project and emulate this application using Android Studio.
 
-# License
+---
 
-- <a href="https://github.com/marcusv77/App-Flutter-Contador-Pessoas">MIT</a>
+## License
+
+Released in 2020 License
+This project is under the [MIT license](./LICENSE).
